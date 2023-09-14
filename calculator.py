@@ -1,4 +1,4 @@
-def dividir(n1: int, n2: int) -> int:
+def dividir(n1: int, n2: int) -> float:
     """
     Função para fazer a divisão de dois números.
 
