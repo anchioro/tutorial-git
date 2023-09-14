@@ -10,4 +10,4 @@ def subtrair(n1: int, n2: int) -> int:
         Retorna a subtração dos números.
     """
 
-    return n1 + n2
+    return n1 - n2
