@@ -58,7 +58,7 @@ def dividir(n1: int, n2: int) -> float:
     return n1 / n2
 
 
-def porcentagem(numero: float, prct: float) -> float:
+def calcular_porcentagem(numero: float, prct: float) -> float:
     """
     Função para mostrar a porcentagem de um determinado número.
 
